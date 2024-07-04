@@ -15,13 +15,14 @@
 
 ## 어떻게 일하나요?
 
-😊 프론트엔드 개발에 매료되어, 코딩의 결과가 즉각적으로 반영되는 것의 매력에 흠뻑 빠진 개발자입니다. 코드 한 줄이 사용자 인터페이스에 어떤 영향을 미치는지 탐구하는 것이 제 열정입니다.<br />
-어디든 어떤 환경이든 빠르게 적응하는 합니다.
-☕ 커피와 🍕피자를 좋아합니다💕.
+😊 코딩의 결과가 바로 눈으로 보이는 것으로 반영되는 것에 매력을 느껴 프론트엔드 개발을 목표로 하고있는 개발자입니다.<br>
+💭 코드 한 줄이 사용자 인터페이스에 어떤 영향을 미치는지 탐구하는 것이 제 열정입니다.<br />
+🌱 어디든 어떤 환경이든 빠르게 적응하는 합니다.<br>
+☕ 커피와 🍕피자를 좋아합니다💕.<br>
 
-## 기술 스택
+## 기술 스택<br>
 
-#### 자주 사용하는 언어
+#### 자주 사용하는 언어<br>
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-#### 사용해본 적 있는 언어
+#### 사용해본 적 있는 언어<br>
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -46,8 +47,6 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-<br />
-<br />
 <br />
 
 Copyright ⓒ Recyclingbottle
