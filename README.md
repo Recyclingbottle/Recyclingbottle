@@ -27,6 +27,6 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 
-<br /><br/ >
+<br /><br />
 
 Copyright ⓒ Recyclingbottle
